@@ -5,15 +5,9 @@
  * media queries.
  */
 module.exports.brandNames = {
-<<<<<<< HEAD
   desktop: 'MetGIS Plugin Documentation',
   tablet: 'MetGIS Plugin Doc',
   mobile: 'MetGIS Plugin Doc'
-=======
-  desktop: 'Wobble API Documentation',
-  tablet: 'Wobble API Docs',
-  mobile: 'API Docs'
->>>>>>> 8f9d015c47724fcc2b1ab9474b2d05531373b1b8
 };
 
 /**
